@@ -1,1 +1,1 @@
-0x02. C - Functions, nested loops
+all tasks are written in c
